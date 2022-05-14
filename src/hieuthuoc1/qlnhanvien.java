@@ -82,6 +82,7 @@ public class qlnhanvien extends javax.swing.JFrame {
         jLabel13.setForeground(new java.awt.Color(255, 255, 255));
         jLabel13.setText("Ngày Sinh");
 
+        txtDate.setBackground(new java.awt.Color(0, 102, 102));
         txtDate.setDateFormatString("yyyy/MM/dd");
 
         jLabel14.setForeground(new java.awt.Color(255, 255, 255));

@@ -172,8 +172,8 @@ public class MenuChinh extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton1MouseClicked
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        NewJPanel1 j1 = new NewJPanel1();
-        j1.setVisible(true);
+        quanlithuoc1 a = new quanlithuoc1();
+        a.setVisible(true);
         
      this.dispose(); ;
     }//GEN-LAST:event_jButton1ActionPerformed
@@ -183,7 +183,8 @@ public class MenuChinh extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton2MouseClicked
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        // TODO add your handling code here:
+        qlnhanvien b = new qlnhanvien();
+        b.setVisible(true);
 
     }//GEN-LAST:event_jButton2ActionPerformed
 
